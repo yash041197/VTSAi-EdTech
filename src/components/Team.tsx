@@ -19,7 +19,7 @@ const team = [
   {
     name : "Yash Pandya",
     role : "CTO",
-    image : "",
+    image : "/yash.jpg",
     link : "https://www.linkedin.com/in/yash-pandya-data/",
     bio : "With a Master's in Data Science and over 5 years of experience as a Data Analyst and Developer, I am joining this company to contribute to data-driven decision-making, optimize IT processes, and support business growth. My role involves combining technical expertise with strategic insights, leveraging data to drive innovation and efficiency. I am dedicated to collaborating across teams, exploring new ideas, and using my skills to deliver meaningful solutions that align with the company’s goals."
   }
