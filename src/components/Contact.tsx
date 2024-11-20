@@ -12,21 +12,21 @@ export default function Contact() {
               <Mail className="w-6 h-6 text-blue-600" />
               <div>
                 <h3 className="font-semibold">Email</h3>
-                <p className="text-gray-600">partnerships@vtsai.edu</p>
+                <p className="text-gray-600">info@vtsaioverseas.com</p>
               </div>
             </div>
             <div className="flex items-center gap-4">
               <Phone className="w-6 h-6 text-blue-600" />
               <div>
                 <h3 className="font-semibold">Phone</h3>
-                <p className="text-gray-600">+1 (555) 234-5678</p>
+                <p className="text-gray-600">+44 7378 703485</p>
               </div>
             </div>
             <div className="flex items-center gap-4">
               <MapPin className="w-6 h-6 text-blue-600" />
               <div>
                 <h3 className="font-semibold">Address</h3>
-                <p className="text-gray-600">456 University Avenue, Boston, MA 02115</p>
+                <p className="text-gray-600">The Lewis Building, Bull Street, Birmingham, B4 6AF</p>
               </div>
             </div>
           </div>

@@ -20,13 +20,13 @@ const associatedPartners = [
   {
     name: "International Management Institute of Switzerland",
     location: "Switzerland 🇨🇭",
-    logo: "https://images.unsplash.com/photo-1614583225154-5fcdda07019e?auto=format&fit=crop&q=80&w=200&h=200",
+    logo: "https://www.iig.ch/img/footer/logo-iug.png?auto=format&fit=crop&q=80&w=200&h=200",
     flag: "🇨🇭"
   },
   {
     name: "IULM",
     location: "Italy 🇮🇹",
-    logo: "https://images.unsplash.com/photo-1523731407965-2430cd12f5e4?auto=format&fit=crop&q=80&w=200&h=200",
+    logo: "https://upload.wikimedia.org/wikipedia/en/2/2a/IULM_University_of_Milan_logo.jpg?auto=format&fit=crop&q=80&w=200&h=200",
     flag: "🇮🇹"
   }
 ];
