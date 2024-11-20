@@ -7,7 +7,7 @@ import Universities from './components/Universities';
 import Stats from './components/Stats';
 import Team from './components/Team';
 import Contact from './components/Contact';
-
+import Gallery from './components/Gallery';
 function App() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const closeMenu = () => setIsMenuOpen(false);
@@ -61,7 +61,8 @@ function App() {
             </p>
           </div>
         </section>
-
+        
+        <Gallery />
         <Programs />
         <Universities />
         <Stats />
