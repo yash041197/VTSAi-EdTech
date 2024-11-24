@@ -8,6 +8,7 @@ import Stats from './components/Stats';
 import Team from './components/Team';
 import Contact from './components/Contact';
 import Gallery from './components/Gallery';
+import SplitPane, { Pane } from 'split-pane-react';
 function App() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const closeMenu = () => setIsMenuOpen(false);
@@ -50,22 +51,24 @@ function App() {
         <section id="hero">
           <Hero />
         </section>
+        
         <NetworkAnimation />
         
         <section id="about" className="bg-white py-20">
           <div className="max-w-7xl mx-auto px-4">
             <h2 className="text-3xl font-bold text-center mb-8">Connecting Global Education</h2>
             <p className="text-gray-600 text-center max-w-3xl mx-auto mb-12">
-              VTSAI builds bridges between educational institutions worldwide, fostering collaboration,
+              We builds bridges between educational institutions worldwide, fostering collaboration,
               innovation, and excellence in global education.
             </p>
           </div>
         </section>
+
         
         <Gallery />
         <Programs />
         <Universities />
-        <Stats />
+        
         <Team />
         <Contact />
       </main>

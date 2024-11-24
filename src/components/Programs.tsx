@@ -20,7 +20,12 @@ const programs = [
   {
     icon: <GitMerge className="w-8 h-8 text-blue-600" />,
     title: "Articulation Programs",
-    description: "Seamless credit transfer pathways between partner institutions."
+    description: "Articulation partnerships enable students to begin their degree programme at a partner institution before transferring to an advanced point of a closely matched programme at Goldsmiths. These arrangements are often referred to as a 1+3 or 2+2 route."
+  },
+  {
+    icon: <GitMerge className="w-8 h-8 text-blue-600" />,
+    title: "Cultural immersion",
+    description: "Our programs offer a unique opportunity for students to immerse themselves in a new culture and gain a deeper understanding of local customs & traditions."
   }
 ];
 

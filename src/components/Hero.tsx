@@ -13,7 +13,7 @@ export default function Hero() {
       </div>
       <div className="relative max-w-7xl mx-auto px-4 h-full flex items-center">
         <div className="text-white max-w-2xl">
-          <h1 className="text-5xl font-bold mb-6">VTSAI: Bridging Global Education</h1>
+          <h1 className="text-5xl font-bold mb-6">VTSAI-EdTech: Bridging Global Education</h1>
           <p className="text-xl mb-8">Empowering institutions worldwide through innovative partnerships, collaborative research, and academic excellence.</p>
           <div className="flex gap-4">
             <a 

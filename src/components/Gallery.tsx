@@ -3,15 +3,15 @@ import React from 'react';
 const gallery = [
   {
     image: "/PHOTO-3.jpg",
-    caption: "Meeting with IULM University Leadership🇮🇹"
+    caption: "Exploring & collaborating opportunities in France(Cannes)"
   },
   {
     image: "/PHOTO_1.jpg",
-    caption: "Partnership Signing with International Management Institute of Switzerland🇨🇭"
+    caption: "Partnering with International Management Institute of Switzerland🇨🇭"
   },
   {
     image: "/PHOTO-2.jpg",
-    caption: "Student Exchange Program Launch - Italy"
+    caption: "Collaboration with IULM - Italy"
   },
   {
     image: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&q=80",

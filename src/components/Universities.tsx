@@ -2,17 +2,14 @@ import React from 'react';
 import { Globe2, Building2 } from 'lucide-react';
 
 const regions = [
-  {
-    name: "North America",
-    universities: ["Harvard University", "Stanford University", "MIT", "University of Toronto"]
-  },
+  
   {
     name: "Europe",
-    universities: ["Oxford University", "ETH Zurich", "Imperial College London", "Sciences Po"]
+    universities: ["International Management Institute of Switzerland", "IULM-Italy"]
   },
   {
     name: "Asia",
-    universities: ["University of Tokyo", "Tsinghua University", "NUS", "Seoul National University"]
+    universities: ["GD Goenka University", "Galgotias University", "Jaipuria Group of Institutes", "Apeejay Stya University","O. P. Jindal Global University","Auro University","Parul University"]
   }
 ];
 
