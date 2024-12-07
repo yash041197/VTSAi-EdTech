@@ -25,8 +25,15 @@ export default function Contact() {
             <div className="flex items-center gap-4">
               <MapPin className="w-6 h-6 text-blue-600" />
               <div>
-                <h3 className="font-semibold">Address</h3>
+                <h3 className="font-semibold">Trading Address</h3>
                 <p className="text-gray-600">The Lewis Building, Bull Street, Birmingham, B4 6AF</p>
+              </div>
+            </div>
+            <div className="flex items-center gap-4">
+              <MapPin className="w-6 h-6 text-blue-600" />
+              <div>
+                <h3 className="font-semibold">Registered Address</h3>
+                <p className="text-gray-600">Chesterton House Accounting Services Llp, 2-3 Rectory Place, Loughborough, Leicestershire, United Kingdom, LE11 1UW</p>
               </div>
             </div>
           </div>
