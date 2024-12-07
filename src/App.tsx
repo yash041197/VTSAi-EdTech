@@ -78,10 +78,10 @@ function App() {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center gap-2 mb-4 md:mb-0">
               <Users className="w-8 h-8 text-blue-500" />
-              <span className="text-xl font-bold text-white">VTSAI</span>
+              <span className="text-xl font-bold text-white">VTSAIOVERSEAS</span>
             </div>
             <div className="text-sm">
-              © {new Date().getFullYear()} VTSAI. All rights reserved.
+              © {new Date().getFullYear()} VTSAI-EdTech, a division of VTSAI Overseas Ltd. All rights reserved.
             </div>
           </div>
         </div>

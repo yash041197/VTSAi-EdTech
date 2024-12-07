@@ -7,7 +7,7 @@ import { Columns } from 'lucide-react';
 const team = [
   {
     name: "Vibhu Taneja",
-    role: "Non Executive Director - IT Consulting and Finance Department",
+    role: "Director - IT Consulting and Finance",
     image: "/pic-1.jpg",
     link : "https://www.linkedin.com/in/vibhutaneja/",
     bio: "Leading VTSAI's vision of connecting global educational institutions. Passionate enterpreneur with over 2 decades of global experience in investment banking & Education sector. His journey has been driven by real world problems , fostering creativity & building sustainable ventures that leaves positive impact.",
@@ -15,7 +15,7 @@ const team = [
   },
   {
     name: "Viriti Taneja",
-    role: "Director - Education Consulting & HR Department",
+    role: "Director - Education Consulting & HR",
     image: "/vriti.png",
     link : "https://www.linkedin.com/in/vibhutaneja/",
     bio: "Leading with a commitment of delivering education excellence. She has over 15 years of experience in the education sector driving transformation through innovative ideas & techniques.",
@@ -39,7 +39,7 @@ const team = [
   },
   {
     name : "Yash Pandya",
-    role : "CTO",
+    role : "Data Strategist (Internship)",
     image : "/yash.jpg",
     link : "https://www.linkedin.com/in/yash-pandya-data/",
     bio : "With a Master's in Data Science and over 5 years of experience as a Data Analyst and Developer, I am joining this company to contribute to data-driven decision-making, optimize IT processes, and support business growth. I am dedicated to collaborating across teams, exploring new ideas, and using my skills to deliver meaningful solutions that align with the company’s goals.",
